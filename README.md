@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nils</h1>
-<h3 align="center">A passionate, aspiring backend devloper from Germany.</h3>
+<h3 align="center">A passionate, aspiring backend developer from Germany.</h3>
 
 - 🌱 I’m currently learning **Spring**
 
